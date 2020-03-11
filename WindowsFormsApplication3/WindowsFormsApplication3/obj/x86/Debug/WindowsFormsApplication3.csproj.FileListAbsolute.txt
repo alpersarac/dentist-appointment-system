@@ -1,0 +1,144 @@
+c:\users\admin\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\admin\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\admin\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+c:\users\admin\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Admin\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Admin\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Admin\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Admin\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Admin\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Admin\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Admin\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Admin\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\Admin\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\hekim.mdf
+C:\Users\Admin\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\hekim_log.ldf
+C:\Users\Admin\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ALPER\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ALPER\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\ALPER\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\ALPER\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ALPER\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ALPER\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\ALPER\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ALPER\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\ALPER\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\ALPER\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ALPER\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\ALPER\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\ALPER\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\ALPER\Desktop\PROJE ALPER\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ALPER\Desktop\PROJE ALPER\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\ALPER\Desktop\PROJE ALPER\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\ALPER\Desktop\PROJE ALPER\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ALPER\Desktop\PROJE ALPER\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ALPER\Desktop\PROJE ALPER\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\ALPER\Desktop\PROJE ALPER\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ALPER\Desktop\PROJE ALPER\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\ALPER\Desktop\PROJE ALPER\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\ALPER\Desktop\PROJE ALPER\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\ALPER\Desktop\PROJE ALPER\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\ALPER\Desktop\PROJE ALPER\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ALPER\Desktop\PROJE ALPER\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\ALPER\Desktop\PROJE ALPER\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\ALPER\Desktop\PROJE ALPER\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form8.resources
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form9.resources
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form10.resources
+C:\Users\ALPER\Desktop\alper saraç 1-2 proje\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\hekim2.sdf
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\hekim2.sdf
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form10.resources
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form9.resources
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ALPER\Desktop\projem\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\hekim2.sdf
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form10.resources
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form9.resources
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ALPER\Desktop\proje alpersarac\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\hekim2.sdf
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form10.resources
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form9.resources
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\ALPER\Desktop\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form10.resources
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form9.resources
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\hekim2.sdf
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ALPER\Desktop\proje bitti\projem\proje alpersarac\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\System.Data.SqlServerCe.dll

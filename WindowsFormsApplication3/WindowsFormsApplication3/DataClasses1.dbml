@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="" Member="bilgilers">
+    <Type Name="bilgiler">
+      <Column Name="ad" Type="System.String" CanBeNull="false" />
+      <Column Name="soyad" Type="System.String" CanBeNull="false" />
+      <Column Name="ilet" Type="System.String" CanBeNull="false" />
+      <Column Name="dipnot" Type="System.String" CanBeNull="false" />
+      <Column Name="tc" Type="System.Int32" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tedavi" Type="System.String" CanBeNull="false" />
+      <Column Name="tarih" Type="System.DateTime" CanBeNull="false" />
+      <Column Name="saat" Type="System.String" CanBeNull="false" />
+      <Column Name="kutu" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="hastaid" Type="System.Int32" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="kutu1" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu2" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu3" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu4" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu5" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu6" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu7" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu8" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu9" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu10" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu11" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu12" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu13" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu14" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu15" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu16" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu17" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu18" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu19" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu20" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu21" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu22" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu23" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu24" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu25" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu26" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu27" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu28" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu29" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu30" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu31" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="kutu32" Type="System.Boolean" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="kayits">
+    <Type Name="kayit">
+      <Column Name="kuladi" Type="System.String" CanBeNull="false" />
+      <Column Name="sifre" Type="System.String" CanBeNull="false" />
+      <Column Name="kulid" Type="System.Int32" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="doktors">
+    <Type Name="doktor">
+      <Column Name="adi" Type="System.String" CanBeNull="false" />
+      <Column Name="soyadi" Type="System.String" CanBeNull="false" />
+      <Column Name="tc1" Type="System.Int32" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="telefon" Type="System.Int32" CanBeNull="false" />
+      <Column Name="eposta" Type="System.String" CanBeNull="false" />
+      <Column Name="cinsiyet" Type="System.String" CanBeNull="false" />
+      <Column Name="doktorid" Type="System.Int32" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
